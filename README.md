@@ -21,6 +21,8 @@
   <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/javascript/javascript-original.svg" title="javascript" **alt="javascript" width="40" height="40"/>
   
 </div>
+
+🌱 I’m currently learning Godot and React
 <!--
 **strik73/strik73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
