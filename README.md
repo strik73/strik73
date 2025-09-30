@@ -4,8 +4,8 @@
   <img src="https://media.giphy.com/media/Jrf2KyF5tYrfZj7jVb/giphy.gif" width="300"/>
 </div>
 
-### My name is Yefta Steven Marcellius, a student at STMIK LIKMI Bandung
-### I'm still learning and attending Software Engineering major
+### My name is Yefta Steven Marcellius, a Fresh Graduate from STMIK LIKMI Bandung.
+### I'm a passionate web developer mainly on Backend. I mainly use Laravel and MySQL.
 
 
 <br>
