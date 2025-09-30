@@ -6,6 +6,7 @@
 
 ### My name is Yefta Steven Marcellius, a Fresh Graduate from STMIK LIKMI Bandung.
 ### I'm a passionate web developer mainly on Backend. I mainly use Laravel and MySQL.
+### My portfolio link : https://strik73.github.io/yefta-portfolio
 
 
 <br>
